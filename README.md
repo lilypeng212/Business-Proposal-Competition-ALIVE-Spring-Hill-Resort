@@ -1,5 +1,9 @@
 # Business Proposal Competition — Spring Hill Resort
 
+This proposal demonstrates the ability to translate customer insights into integrated product, service, and experience strategies.
+
+---
+
 ## 📌 Problem
 The resort lacked differentiated products and integrated travel experiences to enhance customer engagement and extend visitor stay duration.
 
@@ -9,7 +13,7 @@ The resort lacked differentiated products and integrated travel experiences to e
 Developed an integrated business proposal combining product design, service experience, and digital travel planning to enhance the overall customer journey.
 
 Key components:
-- Designed branded product offerings to enhance customer experience and create additional revenue streams  
+- Designed branded product offerings to create additional revenue streams and enhance customer experience  
 - Developed differentiated service kits tailored to hotel guests  
 - Built an integrated travel experience through digital and physical touchpoints  
 
@@ -19,7 +23,7 @@ Key components:
 
 ### Product Design
 - Developed a hand-care product line inspired by the resort’s hot spring identity  
-- Integrated hygiene and wellness concepts to align with post-pandemic consumer needs  
+- Integrated hygiene and wellness concepts aligned with post-pandemic consumer needs  
 
 ### Service Experience
 - Designed a customized overnight toiletry kit to improve usability and differentiation  
@@ -31,14 +35,14 @@ Key components:
   - Interactive website  
   - Google Maps travel list  
 
-- Enhanced user experience by providing up-to-date, location-based travel information  
+- Provided up-to-date, location-based travel information to enhance overall user experience  
 
 ---
 
 ## 📈 Impact
 - Strengthened brand differentiation through integrated product and service design  
 - Improved customer experience across pre-trip, on-site, and post-trip stages  
-- Enabled scalable digital travel planning tools for customer engagement  
+- Enabled scalable digital travel planning tools to increase customer engagement  
 
 ---
 
@@ -58,9 +62,9 @@ Key components:
 ![proposal_overview](Output/proposal_overview.png)
 
 This slide summarizes the overall proposal, integrating three key components:  
-1. Hand-care product line inspired by the resort’s hot spring identity
-2. Differentiated overnight toiletry kit
-3. Curated travel experience design
+1. Hand-care product line inspired by the resort’s hot spring identity  
+2. Differentiated overnight toiletry kit  
+3. Curated travel experience design  
 
 The goal is to create a cohesive customer journey that extends beyond accommodation, combining product, service, and local exploration.
 
@@ -70,7 +74,7 @@ The goal is to create a cohesive customer journey that extends beyond accommodat
 ![product_design](Output/product_design.png)
 
 This component focuses on product innovation aligned with post-pandemic hygiene awareness.  
-The hand-care set combines portability and usability, while incorporating the resort’s signature hot spring concept through ingredients and visual design.  
+The hand-care set combines portability and usability while incorporating the resort’s signature hot spring concept through ingredients and visual design.  
 
 The product aims to enhance both functional value (cleaning and protection) and brand identity.
 
