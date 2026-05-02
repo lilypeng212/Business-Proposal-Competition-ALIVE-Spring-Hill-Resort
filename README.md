@@ -58,9 +58,9 @@ Key components:
 ![proposal_overview](Output/proposal_overview.png)
 
 This slide summarizes the overall proposal, integrating three key components:  
-(1) a hand-care product line inspired by the resort’s hot spring identity,  
-(2) a differentiated overnight toiletry kit, and  
-(3) a curated travel experience design.  
+1. Hand-care product line inspired by the resort’s hot spring identity
+2. Differentiated overnight toiletry kit
+3. Curated travel experience design
 
 The goal is to create a cohesive customer journey that extends beyond accommodation, combining product, service, and local exploration.
 
