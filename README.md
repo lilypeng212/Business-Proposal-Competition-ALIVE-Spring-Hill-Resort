@@ -55,17 +55,17 @@ Key components:
 ## 📊 Sample Proposal Output
 
 ### Integrated Product & Experience Design
-![proposal_overview](output/proposal_overview.png)
+![proposal_overview](Output/proposal_overview.png)
 
 ---
 
 ### Product Design — Hand Care Set
-![product_design](output/product_design.png)
+![product_design](Output/product_design.png)
 
 ---
 
 ### Travel Experience — Digital Map
-![travel_map](output/travel_map.png)
+![travel_map](Output/travel_map.png)
 
 ---
 
