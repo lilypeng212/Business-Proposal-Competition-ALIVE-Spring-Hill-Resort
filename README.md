@@ -57,15 +57,32 @@ Key components:
 ### Integrated Product & Experience Design
 ![proposal_overview](Output/proposal_overview.png)
 
+This slide summarizes the overall proposal, integrating three key components:  
+(1) a hand-care product line inspired by the resort’s hot spring identity,  
+(2) a differentiated overnight toiletry kit, and  
+(3) a curated travel experience design.  
+
+The goal is to create a cohesive customer journey that extends beyond accommodation, combining product, service, and local exploration.
+
 ---
 
 ### Product Design — Hand Care Set
 ![product_design](Output/product_design.png)
 
+This component focuses on product innovation aligned with post-pandemic hygiene awareness.  
+The hand-care set combines portability and usability, while incorporating the resort’s signature hot spring concept through ingredients and visual design.  
+
+The product aims to enhance both functional value (cleaning and protection) and brand identity.
+
 ---
 
 ### Travel Experience — Digital Map
 ![travel_map](Output/travel_map.png)
+
+This slide presents a three-layer travel experience design:  
+a printed brochure, a website, and a Google Maps destination list.  
+
+The system provides structured, up-to-date travel information, helping guests plan their trips more efficiently and increasing engagement beyond the hotel stay.  
 
 ---
 
